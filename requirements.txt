@@ -1,0 +1,7 @@
+python-telegram-bot>=20,<22
+python-dotenv>=1.0,<2
+openpyxl>=3.1,<4
+pillow>=10,<12
+numpy>=1.26,<3
+imageio>=2.34,<3
+imageio-ffmpeg>=0.5,<1
